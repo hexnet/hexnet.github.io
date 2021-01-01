@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on XNetwork Ltd</title>
+    <link>https://xnetwork.co.uk/</link>
+    <description>Recent content in Home on XNetwork Ltd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Feb 2018 17:01:34 +0700</lastBuildDate>
+    
+	<atom:link href="https://xnetwork.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://xnetwork.co.uk/contact/</link>
+      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      
+      <guid>https://xnetwork.co.uk/contact/</guid>
+      <description>We are open for sales and support as listed below
+   Day Opening Hours     Monday 8:30am - 5:00pm   Tuesday 8:30am - 5:00pm   Wednesday 8:30am - 5:00pm   Thursday 8:30am - 5:00pm   Friday 8:30am - 4:00pm   Saturday Closed   Sunday Closed    </description>
+    </item>
+    
+  </channel>
+</rss>
